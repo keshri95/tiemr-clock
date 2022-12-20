@@ -1,3 +1,4 @@
 # tiemr-clock
  
-file:///home/keshri/Pictures/Screenshots/Screenshot%20from%202022-12-20%2012-27-11.png
+
+![Screenshot from 2022-12-20 12-27-11](https://user-images.githubusercontent.com/69101383/208606610-6d1c7554-3942-4d6a-9451-23928502d9eb.png)
